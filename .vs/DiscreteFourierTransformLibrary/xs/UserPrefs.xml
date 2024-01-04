@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F5AAE3EC-05D3-414A-A83A-E22921EC8692}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DiscreteFourierTransformLibrary FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscreteFourierTransformLibrary/Modules/MathFunctions.cs">
+    <Files>
+      <File FileName="DiscreteFourierTransformLibrary/Modules/FunctionalDraftSpace2.cs" />
+      <File FileName="DiscreteFourierTransformLibrary/Modules/DraftSpace3.cs" />
+      <File FileName="DiscreteFourierTransformLibrary/Modules/RetiredFunctions.cs" />
+      <File FileName="DiscreteFourierTransformLibrary/Models/PolyDivision.cs" />
+      <File FileName="DiscreteFourierTransformLibrary/Modules/FindingPeriod.cs" />
+      <File FileName="DiscreteFourierTransformLibrary/Modules/MathFunctions.cs" Line="523" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscreteFourierTransformLibrary" expanded="True">
+            <Node name="DiscreteFourierTransformLibrary" expanded="True">
+              <Node name="Documents" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Modules" expanded="True">
+                <Node name="MathFunctions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

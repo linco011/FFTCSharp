@@ -1,0 +1,8 @@
+﻿Polynomials
+-----------------
+In our program we will define
+polynomials as double arrays (double[]).
+
+The point of doing this is to analytically interpolate
+data on polynomials and exploit polynomial properties 
+
